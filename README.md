@@ -13,3 +13,6 @@ Submission Dcoding IDcamp 2024
 
 > Batu (rock)<br>
 <img src="https://github.com/nazhiba/Machine-Learning-Submission-2024/raw/7958e0e5e88a5cb8fcd53d6de74f4bc6595905ea/tester/batu.png" alt="Batu"  height="215">
+
+> I've been blacklisted. Try next time :)
+![Screenshot 2025-06-25 195706](https://github.com/user-attachments/assets/830bc812-815b-4b6b-a195-f2778bfa59a3)
